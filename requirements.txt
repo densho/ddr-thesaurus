@@ -1,0 +1,12 @@
+# dependencies used in all environments
+
+# Non-Python dependencies
+# sudo apt-get install python3.5, supervisor, mariadb-server, mariadb-client
+
+                                   # LICENSE
+
+django                             # MIT
+django-rest-auth                   # MIT
+djangorestframework                # BSD
+gunicorn                           # MIT
+mysqlclient                        # GPL
