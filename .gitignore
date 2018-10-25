@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.db
+*.svg
+ddrthesaurus/ddrthesaurus/settings.py
+static/
+tmp/
+venv/
+.coverage
+coverage-*
